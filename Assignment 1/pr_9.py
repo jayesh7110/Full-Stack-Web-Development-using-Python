@@ -1,0 +1,5 @@
+name = input("Enter a name:")
+age = int(input("Enter a age:"))
+qua = input("Enter a qualification:")
+exp = int(input("Enter a experience:"))
+print("Name is ",name,"and age is",age,"qualification is",qua,"experience is",exp)
